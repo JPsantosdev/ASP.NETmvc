@@ -16,3 +16,4 @@ Contato:
     Ativo: bool,
 };
 ```
+Na aba Contatos Salvos é possível verificar todos os contatos atualmente disponíveis, assim como adicionar um novo contato se assim desejar. No momento, o programa utiliza uma base de dados local do SQLServer.
