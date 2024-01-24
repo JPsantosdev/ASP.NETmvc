@@ -7,6 +7,7 @@ Este projeto utilizou-se de HTML5, CSS3, JavaScript, C# (ASP.NET) e Entity Frame
 
 A estrutura dos dados encontra-se da seguinte forma: 
 
+```
 Contato:
 {
     Id: int,
@@ -14,3 +15,4 @@ Contato:
     Numero: string,
     Ativo: bool,
 };
+```
